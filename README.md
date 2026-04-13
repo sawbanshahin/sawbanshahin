@@ -10,7 +10,7 @@
 ## 🎨 Banner
 <!-- এখানে তোমার banner image add করবে -->
 <p align="center">
-  <img src="[YOUR_BANNER_LINK_HERE](https://media.licdn.com/dms/image/v2/D5616AQF-4k9o8-8q7Q/profile-displaybackgroundimage-shrink_350_1400/B56ZtrIlZTHsAY-/0/1767028973712?e=1777507200&v=beta&t=9vrDJxB8skKRVgqWsfc1L-58umk7iSpcoRq8ANXXqcM)" alt="banner" width="100%" />
+  <img src="[[YOUR_BANNER_LINK_HERE](https://media.licdn.com/dms/image/v2/D5616AQF-4k9o8-8q7Q/profile-displaybackgroundimage-shrink_350_1400/B56ZtrIlZTHsAY-/0/1767028973712?e=1777507200&v=beta&t=9vrDJxB8skKRVgqWsfc1L-58umk7iSpcoRq8ANXXqcM)](https://sawbanshahin.com/wp-content/uploads/2026/04/Linkedin-Cover-Photo-12-29-25-scaled.jpg)" alt="banner" width="100%" />
 </p>
 
 ---
