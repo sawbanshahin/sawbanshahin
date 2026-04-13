@@ -7,7 +7,6 @@
 
 ---
 
-## 🎨 Banner
 <!-- এখানে তোমার banner image add করবে -->
 <p align="center">
   <img src="https://sawbanshahin.com/wp-content/uploads/2026/04/Linkedin-Cover-Photo-12-29-25-scaled.jpg" />
